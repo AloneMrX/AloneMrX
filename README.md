@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Anonymous Cult
 - 📫 How to reach me hackeb454@gmail.com
 - 😄 Pronouns: sir/never/defeated/as/i/am/ruler
-- ⚡ Fun fact: You all are in a matrix.
+- ⚡ Fun fact: You all are in a matrix..
 
 <!---
 AloneMrX/AloneMrX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
